@@ -44,6 +44,16 @@ Students in rural areas often depend on a single bus or school transport. Delays
 - `utils/` → Helper Utilities
 
 ---
+## ⚙️ Installation
+
+1. Clone the repository
+2. Open project in Android Studio
+3. Connect Firebase project
+4. Add your `google-services.json`
+5. Sync Gradle
+6. Run the app on emulator or Android device
+
+---
 
 ## 🚀 Future Enhancements
 

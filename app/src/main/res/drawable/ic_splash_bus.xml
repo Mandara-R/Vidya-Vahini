@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bus icon for splash screen and launcher -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#0A0E21"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0"/>
+
+    <!-- Bus body -->
+    <path
+        android:fillColor="#FF6D00"
+        android:pathData="M22,40 L86,40 Q90,40 90,44 L90,72 Q90,76 86,76 L22,76 Q18,76 18,72 L18,44 Q18,40 22,40 Z"/>
+
+    <!-- Bus roof -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M26,32 L82,32 Q88,32 88,38 L88,42 L20,42 L20,38 Q20,32 26,32 Z"/>
+
+    <!-- Windows row 1 -->
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.9"
+        android:pathData="M26,46 H40 V58 H26 Z"/>
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.9"
+        android:pathData="M44,46 H64 V58 H44 Z"/>
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.9"
+        android:pathData="M68,46 H82 V58 H68 Z"/>
+
+    <!-- Door -->
+    <path android:fillColor="#12172B"
+        android:pathData="M26,60 H40 V74 H26 Z"/>
+
+    <!-- Wheels -->
+    <path
+        android:fillColor="#12172B"
+        android:pathData="M30,76m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0"/>
+    <path
+        android:fillColor="#FF6D00"
+        android:pathData="M30,76m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"/>
+
+    <path
+        android:fillColor="#12172B"
+        android:pathData="M78,76m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0"/>
+    <path
+        android:fillColor="#FF6D00"
+        android:pathData="M78,76m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"/>
+
+    <!-- Headlight -->
+    <path android:fillColor="#FFD600"
+        android:pathData="M82,60 H90 V68 H82 Z"/>
+
+    <!-- Taillight -->
+    <path android:fillColor="#FF1744"
+        android:pathData="M18,60 H22 V68 H18 Z"/>
+
+</vector>

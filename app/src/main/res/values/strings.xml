@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vidya-Vahini</string>
+
+    <!-- Auth -->
+    <string name="login_title">Welcome to\nVidya-Vahini</string>
+    <string name="login_subtitle">Real-time bus tracking for rural students</string>
+    <string name="login_phone_hint">Enter 10-digit mobile number</string>
+    <string name="login_country_code">+91</string>
+    <string name="btn_send_otp">Send OTP</string>
+
+    <string name="otp_title">Verify OTP</string>
+    <string name="otp_subtitle">Enter the 6-digit code sent to your number</string>
+    <string name="otp_hint">Enter 6-digit OTP</string>
+    <string name="btn_verify">Verify &amp; Continue</string>
+
+    <string name="register_title">Complete Your Profile</string>
+    <string name="register_subtitle">Tell us your name, route, and boarding stop</string>
+    <string name="register_name_hint">Your full name</string>
+    <string name="register_parent_phone_hint">Parent\'s phone (optional, for SMS alerts)</string>
+    <string name="register_route_hint">Select your bus route</string>
+    <string name="register_stop_hint">Select your boarding stop</string>
+    <string name="btn_register">Let\'s Go!</string>
+
+    <!-- Home -->
+    <string name="home_eta_default">Waiting for first ping…</string>
+    <string name="home_last_ping_default">No pings yet today</string>
+    <string name="btn_ping">🚌  PING BUS</string>
+    <string name="btn_ping_done">✅  Pinged!</string>
+    <string name="btn_breakdown">⚠️  Report Breakdown</string>
+    <string name="btn_map">🗺  View Route Map</string>
+    <string name="btn_safe_reach">🏫  I Reached College Safely</string>
+
+    <!-- Tracking -->
+    <string name="tracking_title">Live Route Map</string>
+    <string name="tracking_eta_label">ETA</string>
+    <string name="tracking_last_ping_label">Last seen</string>
+    <string name="tracking_breakdown_label">⚠️ Breakdown Alert</string>
+
+    <!-- Safe Reach -->
+    <string name="safe_reach_title">I Reached Safely</string>
+    <string name="safe_reach_subtitle">Tap to notify your parents that you\'ve reached college</string>
+    <string name="btn_reached">🏫  I Reached College Safely</string>
+    <string name="safe_reach_done">✅  Parents Notified!</string>
+</resources>

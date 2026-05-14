@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Safe reach / school icon -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Circle background -->
+    <path
+        android:fillColor="#1C2340"
+        android:pathData="M60,60m-55,0a55,55 0,1 1,110 0a55,55 0,1 1,-110 0"/>
+
+    <!-- Building body -->
+    <path
+        android:fillColor="#FF6D00"
+        android:pathData="M30,90 L90,90 L90,55 L30,55 Z"/>
+
+    <!-- Roof -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M25,55 L60,30 L95,55 Z"/>
+
+    <!-- Door -->
+    <path android:fillColor="#0A0E21"
+        android:pathData="M50,68 H70 V90 H50 Z"/>
+
+    <!-- Windows -->
+    <path android:fillColor="#FFD600" android:fillAlpha="0.9"
+        android:pathData="M33,60 H47 V74 H33 Z"/>
+    <path android:fillColor="#FFD600" android:fillAlpha="0.9"
+        android:pathData="M73,60 H87 V74 H73 Z"/>
+
+    <!-- Flag on top -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M58,22 H62 V34 H58 Z"/>
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M62,22 L78,26 L62,30 Z"/>
+
+    <!-- Check mark overlay circle -->
+    <path
+        android:fillColor="#00C853"
+        android:fillAlpha="0.95"
+        android:pathData="M88,78m-18,0a18,18 0,1 1,36 0a18,18 0,1 1,-36 0"/>
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M80,78 L86,84 L96,72"/>
+
+</vector>

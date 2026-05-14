@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary: Deep Transit Blue -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_variant">#0D47A1</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary: Vibrant Amber -->
+    <color name="secondary">#FF8F00</color>
+    <color name="secondary_light">#FFB300</color>
+    <color name="on_secondary">#000000</color>
+
+    <!-- Accent & Status -->
+    <color name="success">#2E7D32</color>
+    <color name="error">#C62828</color>
+    <color name="warning">#EF6C00</color>
+
+    <!-- Surface -->
+    <color name="surface">#FAFAFA</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="on_surface">#1B1B1F</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="shimmer_color">#E0E0E0</color>
+
+    <color name="bg_deep">#0D1B2A</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="primary_orange">#FF9800</color>
+    <color name="status_on_time">#4CAF50</color>
+
+    <color name="text_hint">#9E9E9E</color>
+
+    <color name="status_arriving">#4CAF50</color>
+    <color name="status_soon">#FFC107</color>
+    <color name="status_passed">#F44336</color>
+
+   </resources>

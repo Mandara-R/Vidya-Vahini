@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="VidyaCard">
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <style name="VidyaCard.Breakdown">
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <style name="VidyaButton.Primary">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="VidyaButton.Ping">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="VidyaButton.Outlined">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="VidyaTextInput">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="VidyaButton">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+
+
+</resources>

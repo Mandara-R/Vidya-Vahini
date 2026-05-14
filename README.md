@@ -54,6 +54,21 @@ Students in rural areas often depend on a single bus or school transport. Delays
 6. Run the app on emulator or Android device
 
 ---
+## 📸 Screenshots
+
+### Home Screen
+![Login](screenshots/HomeScreen.png)
+
+### Login Page
+![Dashboard](screenshots/LoginPage.png)
+
+### Bus Ping Breakdown Alert
+![Ping](screenshots/PingandBreakdown.png)
+
+### Backend
+![Ping](screenshots/Backed.png)
+
+---
 
 ## 🚀 Future Enhancements
 

@@ -63,7 +63,7 @@ Students in rural areas often depend on a single bus or school transport. Delays
 ![Login Page](screenshots/LoginPage.png)
 
 ### Bus Ping & Breakdown Alert
-![Ping & Breakdown Alert](screenshots/PingandBreakdown.png)
+![Ping & Breakdown Alert](screenshots/Ping&Breakdown.png)
 
 ### Backend
 ![Backend](screenshots/Backed.png)
